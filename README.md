@@ -4,5 +4,6 @@
 ```
 cd Desktop
 mkdir project-2
-git clone 
+cd project-2
+git clone https://github.com/eliaszayoud-SE/project-2.git
 ```
